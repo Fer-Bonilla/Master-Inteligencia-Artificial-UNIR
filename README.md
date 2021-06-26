@@ -63,8 +63,17 @@ Planificación con incertidumbre.
 
 ## Sistemas Cognitivos Artificiales
 
+Durante años, la inteligencia artificial se fundamentó principalmente en complejos sistemas de reglas y conocimiento definidos por humanos. Estos sistemas eran capaces de resolver problemas basados en reglas formales que resultaban difíciles para las personas, pero relativamente sencillos para un ordenador. Curiosamente, las tareas abstractas y formales suelen ser fáciles de resolver para una máquina, mientras que las tareas más sencillas, que resultan intuitivas y directas para una persona (como reconocer una cara) son a su vez las más difíciles de ejecutar para un ordenador.
+
+Consideremos por ejemplo el juego del ajedrez, uno de los primeros éxitos de la IA al ser capaz de vencer a los humanos. Aunque esto fue una gran hazaña, el hecho de que el ajedrez pueda ser descrito por una serie de reglas formales en un entorno perfectamente definido facilitó su solución mediante la inteligencia artificial.
+
+Sin embargo, mientras los ordenadores eran capaces de vencernos fácilmente al ajedrez, sus capacidades para realizar tareas casi automáticas para nosotros, como entender una frase o describir qué hay en una imagen, eran muy limitadas. Las dificultades en resolver estas tareas que presentaban los sistemas de conocimiento y de reglas provistos por humanos dio paso al machine learning o aprendizaje automático, una nueva área dentro de la inteligencia artificial.
 
 ## Procesamiento de lenguaje natural
 
+El procesamiento del lenguaje y del habla ha sido tratado históricamente de forma muy diferente en la informática, la ingeniería, la lingüística, la psicología o la ciencia cognitiva. Hoy en día se concibe el procesamiento del lenguaje natural como área que abarca varios campos diferentes y diversos pero superpuestos. Por ello, el procesamiento del lenguaje natural es un campo interdisciplinario que une a informáticos, ingenieros electrónicos y de telecomunicaciones con lingüistas, sociólogos y psicólogos.
 
+El reconocimiento de la voz, que incluye tareas del procesamiento de la señal, se ha tratado tradicionalmente en la ingeniería electrónica y de telecomunicaciones. El análisis sintáctico y la interpretación semántica de las palabras y frases son áreas tradicionales del procesamiento del lenguaje natural que se estudian en el campo de la informática. La morfología, la fonología y la pragmática son tareas de investigación en la lingüística computacional. Psicolingüistas y sociolingüistas estudian respectivamente los mecanismos cognitivos para la adquisición del lenguaje y cómo la sociedad influye en el uso de la lengua.
+
+El ancho espectro que abarca el campo del procesamiento del lenguaje natural hace que se conozca con diferentes nombres debido a las diferentes vertientes involucradas. Algunos de estos nombres, que provienen de estas diferentes facetas, serían procesamiento del lenguaje y del habla, tecnología del lenguaje, procesamiento del lenguaje natural, lingüística computacional o reconocimiento y síntesis del habla.
 
