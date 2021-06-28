@@ -71,9 +71,12 @@ Sin embargo, mientras los ordenadores eran capaces de vencernos fácilmente al a
 
 ## Procesamiento de lenguaje natural
 
-El procesamiento del lenguaje y del habla ha sido tratado históricamente de forma muy diferente en la informática, la ingeniería, la lingüística, la psicología o la ciencia cognitiva. Hoy en día se concibe el procesamiento del lenguaje natural como área que abarca varios campos diferentes y diversos pero superpuestos. Por ello, el procesamiento del lenguaje natural es un campo interdisciplinario que une a informáticos, ingenieros electrónicos y de telecomunicaciones con lingüistas, sociólogos y psicólogos.
+El procesamiento del lenguaje natural PLN (NLP por sus siglas en inglés) es una área de las ciencias de la computación que abarca difernetes disciplinas (Por ejmplo ciencias del computación, lingüística, psicología, matemáticas entre otras) que busca crear modelos algortimos y matemáticos que permitan la comprensión del lenguaje tal como lo hacen los humanos. Algunas de las áreas que son cubierts por el PLN son El reconocimiento de la voz, la interpretación semántica de las palabras y frases, la morfología, la fonología y la pragmática, la generación automática de texto y el análisis de sentimientos
 
-El reconocimiento de la voz, que incluye tareas del procesamiento de la señal, se ha tratado tradicionalmente en la ingeniería electrónica y de telecomunicaciones. El análisis sintáctico y la interpretación semántica de las palabras y frases son áreas tradicionales del procesamiento del lenguaje natural que se estudian en el campo de la informática. La morfología, la fonología y la pragmática son tareas de investigación en la lingüística computacional. Psicolingüistas y sociolingüistas estudian respectivamente los mecanismos cognitivos para la adquisición del lenguaje y cómo la sociedad influye en el uso de la lengua.
+prácticas del curso:
 
-El ancho espectro que abarca el campo del procesamiento del lenguaje natural hace que se conozca con diferentes nombres debido a las diferentes vertientes involucradas. Algunos de estos nombres, que provienen de estas diferentes facetas, serían procesamiento del lenguaje y del habla, tecnología del lenguaje, procesamiento del lenguaje natural, lingüística computacional o reconocimiento y síntesis del habla.
+- Etiquetador morfosintáctico (Algoritmo de Viterbi)
+- Análisis de sentimientos y polaridad.
+- Desambiguación de palabras
+
 
