@@ -1,6 +1,6 @@
 # Repositorio prácticas y documentos Máster en Inteligencia Artificial UNIR
 
-Documentos de referencia y prácticas de la maestría en Inteligencia Artificial de la UNIR. Los documentos están organizados por materias y unicamente deeben ser considerados como referencias.
+Documentos de referencia y prácticas de la maestría en Inteligencia Artificial de la UNIR. Los documentos están organizados por materias y unicamente deben ser considerados como referencias. Las prácticas están organizadas en las carpetas del mismo nombre de la matería. Se incluyen alguno enlaces y referencias que permiten un mejor entendimiento y ejemplos para la solución de las prácticas.
 
 Materias del máster:
 
