@@ -22,6 +22,10 @@ Prácticas:
 - Algoritmos de árbolesd de desición y bosques aleatorios para clasificación y regresión.
 - Algoritmos de clusterung (Agrupamiento) mediante el método de k-means
 
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
 
 ## Neurociencia cognitiva
 
@@ -31,6 +35,11 @@ Prácticas:
 
 - Diseño aplicado para sistemas de inteligencia artificial
 - Diseño bioinspirado de sistemas robóticos o autónomos
+
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
 
 ## Percepción Computacional
 
@@ -50,6 +59,11 @@ Prácticas:
 
 - Reflexión sobre la ética y legalidad de las aplicaciones basadas en inteligencia artificial
 
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
+
 ## Razonamiento y Planificación Automática
 
 Una característica importante de la inteligencia humana, es la capacidad de razonamiento y planeación de tareas, mediante las cuales se puede desarrollo comportamiento autonómo mediante la interacción con el entorno y una continua retroalimentación. Este tipo de capacidades se modelan para poder dotar a agentes artificiales la capacidad de interactuar autonomante en un entorno específico. 
@@ -57,6 +71,11 @@ Una característica importante de la inteligencia humana, es la capacidad de raz
 - Estrategias de razonamiento
 - Implementación de juego de puzzle 8
 - Planificación de STRIPS
+
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
 
 
 ## Sistemas Cognitivos Artificiales
@@ -70,6 +89,12 @@ Prácticas:
  - Clasificación de texto con redes neuronales
  - Modelos de lenguaje con redes neuronales recurrentes
 
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
+
+
 ## Procesamiento de lenguaje natural
 
 El procesamiento del lenguaje natural PLN (NLP por sus siglas en inglés) es una área de las ciencias de la computación que abarca difernetes disciplinas (Por ejmplo ciencias del computación, lingüística, psicología, matemáticas entre otras) que busca crear modelos algortimos y matemáticos que permitan la comprensión del lenguaje tal como lo hacen los humanos. Algunas de las áreas que son cubierts por el PLN son El reconocimiento de la voz, la interpretación semántica de las palabras y frases, la morfología, la fonología y la pragmática, la generación automática de texto y el análisis de sentimientos
@@ -80,4 +105,8 @@ prácticas del curso:
 - Análisis de sentimientos y polaridad.
 - Desambiguación de palabras
 
+Recursos recomendados para las práctics:
+ - 
+ -
+ -
 
